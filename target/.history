@@ -1,0 +1,15 @@
+compile
+run
+reload
+compole
+clean
+compile
+console
+reload
+test
+~test
+reload
+gitCommitCountTask
+reload
+scalastyleGenerateConfig
+scalastyle

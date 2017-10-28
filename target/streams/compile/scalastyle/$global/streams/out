@@ -1,0 +1,19 @@
+[0m[[0m[0minfo[0m] [0m[0mscalastyle using config /Users/souljourner/Library/Mobile Documents/com~apple~CloudDocs/Development/Data Science/ClarivateLearning/tasky/scalastyle-config.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mStarting scalastyle[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /Users/souljourner/Library/Mobile Documents/com~apple~CloudDocs/Development/Data Science/ClarivateLearning/tasky/src/main/scala/datamodels.scala[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/souljourner/Library/Mobile Documents/com~apple~CloudDocs/Development/Data Science/ClarivateLearning/tasky/src/main/scala/datamodels.scala:1: Header does not match expected text[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /Users/souljourner/Library/Mobile Documents/com~apple~CloudDocs/Development/Data Science/ClarivateLearning/tasky/src/main/scala/datamodels.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /Users/souljourner/Library/Mobile Documents/com~apple~CloudDocs/Development/Data Science/ClarivateLearning/tasky/src/main/scala/HelloSbt.scala[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/souljourner/Library/Mobile Documents/com~apple~CloudDocs/Development/Data Science/ClarivateLearning/tasky/src/main/scala/HelloSbt.scala:1: Header does not match expected text[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/souljourner/Library/Mobile Documents/com~apple~CloudDocs/Development/Data Science/ClarivateLearning/tasky/src/main/scala/HelloSbt.scala:2:2: Regular expression matched 'println'[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /Users/souljourner/Library/Mobile Documents/com~apple~CloudDocs/Development/Data Science/ClarivateLearning/tasky/src/main/scala/HelloSbt.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /Users/souljourner/Library/Mobile Documents/com~apple~CloudDocs/Development/Data Science/ClarivateLearning/tasky/src/main/scala/taskmanger.scala[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/souljourner/Library/Mobile Documents/com~apple~CloudDocs/Development/Data Science/ClarivateLearning/tasky/src/main/scala/taskmanger.scala:1: Header does not match expected text[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /Users/souljourner/Library/Mobile Documents/com~apple~CloudDocs/Development/Data Science/ClarivateLearning/tasky/src/main/scala/taskmanger.scala[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Processed 3 file(s)[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Found 0 errors[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Found 4 warnings[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Found 0 infos[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Finished in 6 ms[0m
+[0m[[0m[32msuccess[0m] [0m[0mcreated output: /Users/souljourner/Library/Mobile Documents/com~apple~CloudDocs/Development/Data Science/ClarivateLearning/tasky/target[0m
+[0m[[0m[33mwarn[0m] [0m[0mwarnings exist[0m
